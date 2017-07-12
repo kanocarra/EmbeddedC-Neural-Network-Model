@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "init_layer:Layer.c">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.c">
+      </ContextState>
+      <ContextState
+         contextName = "init_neuron:Neuron.c">
+      </ContextState>
+      <ContextState
+         contextName = "add_neuron:Layer.c">
+      </ContextState>
+      <ContextState
+         contextName = "compute_result:Layer.c">
+      </ContextState>
+      <ContextState
+         contextName = "compute_output:Neuron.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "neuron-&gt;weights[i]">
+            </PersistentString>
+            <PersistentString
+               value = "inputs[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
